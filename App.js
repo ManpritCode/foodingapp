@@ -1,20 +1,32 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
-
+import { StyleSheet, Text, View ,ScrollView} from 'react-native';
+import ButtonBar from './Components/ButtonBar';
+import HeaderTab from './Components/headerTab';
+import OffersBar from './Components/OffersBar';
+import SearchBar from './Components/Searchbar';
+import Categories from './Components/categories';
+import Green from './Components/green';
+import RestuarantItems from './Components/restorentItems';
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <>
+   
+   <HeaderTab />
+   <SearchBar />
+   <ButtonBar />
+   <ScrollView style={{
+    backgroundColor:"white",
+    marginTop:"10",
+    }}>
+   <OffersBar />  
+    <Categories />
+    <Green />
+    <RestuarantItems/>
+    <RestuarantItems/>
+    <RestuarantItems/>
+   </ScrollView>
+
+   </>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
