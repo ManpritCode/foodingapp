@@ -16,7 +16,7 @@ export default function App() {
    <ButtonBar />
    <ScrollView style={{
     backgroundColor:"white",
-    marginTop:"10",
+    marginTop:10,
     }}>
    <OffersBar />  
     <Categories />

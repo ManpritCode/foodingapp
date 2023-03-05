@@ -49,7 +49,8 @@ export default function RestruarantItems() {
             }}>
                 <View style={{
                     top:-50
-                }}><Text>mmm</Text></View>
+                }}><Text>mmm</Text>
+                </View>
                 <View style={{
                     height: 45,
                     width: 360,

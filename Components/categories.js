@@ -6,7 +6,50 @@ const foodItems = [
         Image: require("../assets/images/pizza.png"),
         text: "Pizaa",
     },
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
   
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },  
 
 ]
 const fooditems2 = [
@@ -14,6 +57,51 @@ const fooditems2 = [
         Image: require("../assets/images/thali.png"),
         text: "Thali",
     },
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
+    {
+        Image: require("../assets/images/pizza.png"),
+        text: "Pizaa",
+    },
+  
    
 
 ]
