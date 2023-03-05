@@ -6,7 +6,7 @@ import { AntDesign } from '@expo/vector-icons';
 export default function RestruarantItems() {
     return (
         <>
-       /*
+       
        <View style={{
 
 
